@@ -1,0 +1,12 @@
+{
+  "deviceName": "4CBDU17601004905",
+  "automationName": "Appium",
+  "platformName": "Android",
+  "platformVersion": "8.0",
+  "appPackage": "com.tencent.mobileqq",
+  "appActivity": "com.tencent.mobileqq.activity.SplashActivity",
+  "unicodeKeyboard": true,
+  "resetKeyboard": true,
+  "autoAcceptAlerts": true,
+  "noReset": true
+}

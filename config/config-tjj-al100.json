@@ -1,0 +1,12 @@
+{
+  "deviceName": "4CBDU17601004905",
+  "automationName": "Appium",
+  "platformName": "Android",
+  "platformVersion": "8.0",
+  "appPackage": "com.huanshou.taojj",
+  "appActivity": "com.app.shanjiang.main.HomeActivity",
+  "unicodeKeyboard": true,
+  "resetKeyboard": true,
+  "noReset": true,
+  "autoAcceptAlerts": true
+}

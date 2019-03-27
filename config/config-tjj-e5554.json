@@ -1,0 +1,12 @@
+{
+  "deviceName": "emulator-5554",
+  "automationName": "Appium",
+  "platformName": "Android",
+  "platformVersion": "9",
+  "appPackage": "com.huanshou.taojj",
+  "appActivity": "com.app.shanjiang.main.HomeActivity",
+  "unicodeKeyboard": true,
+  "resetKeyboard": true,
+  "noReset": true,
+  "autoAcceptAlerts": true
+}
