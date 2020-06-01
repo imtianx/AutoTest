@@ -6,7 +6,7 @@
 
 ## 1.安装 [Appium](https://github.com/appium/appium-desktop) 框架
 
-此处安装的 Mac 上的 desktop 版本，使用时只需连接手机，启动客户端，配置相关参数即可。具体操作参见[此处](https://github.com/appium/appium-desktop）
+此处安装的 Mac 上的 desktop 版本，使用时只需连接手机，启动客户端，配置相关参数即可。具体操作参见[https://github.com/appium/appium-desktop](https://github.com/appium/appium-desktop)
 
 ## 2.编写测试代码 
 
